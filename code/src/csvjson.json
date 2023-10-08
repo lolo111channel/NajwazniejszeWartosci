@@ -1,0 +1,27 @@
+{
+  
+  "Sygnatura czasowa":["2023/09/23 7:25:56 PM EEST","2023/09/25 10:16:15 AM EEST","2023/09/25 5:50:15 PM EEST","2023/09/25 5:55:12 PM EEST","2023/09/25 6:47:50 PM EEST","2023/09/25 7:05:03 PM EEST","2023/09/26 10:30:59 PM EEST","2023/10/01 2:59:39 PM EEST","2023/10/01 3:09:27 PM EEST","2023/10/01 4:23:03 PM EEST","2023/10/01 5:52:19 PM EEST","2023/10/01 7:04:39 PM EEST","2023/10/01 8:28:54 PM EEST","2023/10/02 9:03:30 AM EEST","2023/10/02 9:04:22 AM EEST","2023/10/02 1:40:55 PM EEST","2023/10/03 1:57:33 AM EEST"],
+  "Jaką masz płeć?":["Mężczyzna","Mężczyzna","Mężczyzna","Mężczyzna","Mężczyzna","Kobieta","Mężczyzna","Mężczyzna","Mężczyzna","Mężczyzna","Mężczyzna","Mężczyzna","Mężczyzna","Inna","Mężczyzna","Inna","Kobieta"],
+  "Ile masz lat?":["18 - 20","11 - 17","18 - 20","11 - 17","18 - 20","11 - 17","11 - 17","11 - 17","11 - 17","11 - 17","11 - 17","18 - 20","11 - 17","46 - 50","18 - 20","11 - 17","18 - 20"],
+  "W jakim zawodzie pracujesz?":["Uczeń","Uczeń","Student","Uczeń","Uczeń","Uczeń","Uczeń","Uczeń","Uczeń","Uczeń","Uczeń","Uczeń","Uczeń","Bezrobotny, ciężko pracujący","Uczeń","Bezrobotny","Uczeń"],
+  "Jak ważna jest dla ciebie relacja z rodzinną?":[4,3,5,4,4,3,2,4,3,3,5,3,4,1,5,4,4],
+  "Jak ważne są dla ciebie relacje z przyjaciółmi?":[5,4,4,2,3,4,4,4,3,3,3,3,4,1,4,4,5],
+  "Jak ważne jest dla ciebie twoje zdrowie?":[3,5,5,5,3,4,2,3,3,4,4,4,2,1,5,4,5],
+  "Jak ważna jest dla ciebie twoje samopoczucie?":[4,4,5,5,3,5,2,4,2,5,5,3,3,5,5,4,5],
+  "Jak ważna jest dla ciebie twoja kariera zawodowa?":[3,4,5,2,4,3,3,3,2,5,4,5,3,5,3,5,5],
+  "Jak ważna jest dla ciebie twoje bezpieczeństwo?":[5,5,5,4,3,4,2,2,3,4,4,5,3,1,3,3,5],
+  "Jak ważna jest dla ciebie wolność?":[5,5,5,5,4,5,5,5,5,5,5,5,5,5,5,4,5],
+  "Jak ważne jest dla ciebie wyrażanie twoich poglądów?":[4,3,4,3,3,5,1,4,4,3,4,5,2,5,2,3,5],
+  "Jak ważne jest dla ciebie twój kraj?":[2,2,1,1,2,2,2,3,2,3,4,4,4,1,1,1,1],
+  "Jak ważne jest dla ciebie bogactwo?":[2,3,3,5,4,4,3,4,2,3,3,5,3,1,5,5,5],
+  "Jak ważna jest dla ciebie sława?":[3,3,2,1,2,2,2,3,1,1,2,2,1,5,5,1,4],
+  "Jak ważny jest dla ciebie sukces?":[4,5,3,5,4,3,5,4,4,4,4,5,4,5,5,5,5],
+  "Jak ważna jest dla ciebie religia?":[3,2,1,1,2,1,3,2,1,3,4,4,3,1,1,5,1],
+  "Jak ważny jest dla ciebie kontakt z kulturą?":[5,5,1,2,3,2,3,2,1,3,3,3,3,1,1,1,4],
+  "Jak ważna jest dla ciebie kreatywność?":[5,5,5,4,4,4,4,3,4,4,4,3,3,5,3,1,5],
+  "Jak ważne jest dla ciebie twoje zainteresowania/hobby?":[4,4,5,5,3,5,5,4,4,2,5,4,4,5,5,1,5],
+  "Jak ważny jest dla ciebie twój rozwój osobisty?":[4,5,5,5,4,5,5,3,4,4,5,3,3,3,5,5,5],
+  "Jak ważne jest dla ciebie uczciwość?":[5,4,5,3,4,3,5,3,2,5,4,3,3,5,2,1,5],
+  "Jak ważne są dla ciebie rzeczy materialne?":[2,3,3,5,3,3,4,4,2,3,4,4,4,5,3,5,4],
+  "Jak ważna jest dla ciebie edukacja?":[3,4,3,2,2,3,2,4,2,4,4,3,3,1,1,1,5]
+}

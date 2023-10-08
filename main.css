@@ -1,0 +1,116 @@
+@import url(https://fonts.googleapis.com/css2?family=Kanit:wght@600&family=Lato&display=swap);
+html {
+    scroll-behavior: smooth;
+}
+
+body{
+    font-family: 'Lato', sans-serif;
+
+    background-size: 100px 100px;
+    background-image:
+      linear-gradient(to right, rgb(236, 230, 230) 1px, transparent 1px),
+      linear-gradient(to bottom, rgb(237, 236, 236) 1px, transparent 1px);
+      
+    margin: 0;
+
+    font-size: 1.1em;
+
+    visibility: 0%;
+    animation: shows 1.2s linear 0s 1 both;
+}
+
+.main-container{
+    width: 100%;
+    height: auto;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    flex-flow: column nowrap;
+}
+
+.row{
+    width: 100%;
+    
+    display: flex;
+    justify-content: center;
+
+    flex-flow: row nowrap;
+}
+
+.block{
+    margin: 2.5vh;
+
+    width: 40%;
+    height: 50vh auto;
+
+    background-color: white;
+    border: 1px solid black;
+    box-shadow: 2px 2px 5px black;
+
+    text-align: center;
+    display: flex;
+    align-items: center;
+
+    flex-flow: column nowrap;
+}
+
+.content{
+    width: 80%;
+    text-align:justify;
+    font-size: 1.2em;
+}
+
+.center-container{
+    width: 100%;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.img-container{
+    width: 75%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.question-img{
+    width: 100%;
+    height: 100%;
+
+    border: 1px solid black;
+}
+
+.chart{
+    height: 40vh;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+@media screen and (max-width: 767px) {
+    .row{
+        justify-content: center;
+        align-items: center;
+        flex-flow: column nowrap;
+    }
+
+    .block{
+        width: 80%;
+        height: auto;
+    }
+}
+
+@keyframes shows {
+    0%{
+        opacity: 0%;
+    }
+
+    100%{
+        opacity: 100%;
+    }
+}
